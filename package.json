@@ -1,0 +1,22 @@
+{
+  "name": "nuxtjs-ssr-website-lambda",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "nuxt": "3.15.0",
+    "stacktape": "^3.2.0",
+    "typescript": "^5.9.2"
+  }
+}
